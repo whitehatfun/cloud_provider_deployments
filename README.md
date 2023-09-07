@@ -1,1 +1,1 @@
-# cloud_provider_deployments
+# To use this repository, please jump into the provider folder you are interested in working in for proper instructions using the readme therewithin.
